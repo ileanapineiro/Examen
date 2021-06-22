@@ -7,3 +7,13 @@ Bien y vos?
 Comando
 Status, add . , commit -m y push
 Que esto?, no se git
+
+git clone enlace {Clonar repositorio}
+cd nombre del repositorio o carpeta/ {Entrar al repositorio o carpeta}
+touch nombre.tipo {Crear archivo; carpeta, documento de texto (tp.txt), etc}
+git add . {Pasar del Directorio de Trabajo a la Área de Almacenamiento}
+git commit -m "mensaje" {Pasar del Área de Almacenamiento al Repositorio}
+ls {Ver los ficheros de un directorio}
+git status {Ver estatus de los archivos modificados y subidos}
+git push origin main/master (esto depende) {Subir Repositorio}
+git pull origin main/master (esto depende) {Actualizar Repositorio}
