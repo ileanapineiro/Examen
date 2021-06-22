@@ -1,1 +1,3 @@
 Hola
+Comando
+Status, add . , commit -m y push
